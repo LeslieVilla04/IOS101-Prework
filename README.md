@@ -5,27 +5,27 @@
 
 # App Brainstorming
 
-Spotify
+**Spotify**
 - Top songs are at the top of the page
 - Can create personalized playlists
 - Different genres of music on "search"
 
-Instagram
+**Instagram**
 - Personalized Reels (Short videos)
 - Ability to switch between dark and light mode
 - Users can create filters
 
-Youtube
+**Youtube**
 - Personalized Shorts
 - Scrollable navigation bar
 - Ability to make playlist of videos
 
-Target App
+**Target App**
 - Ability to make a list of items to purchase
 - Newest items/sales appear on home page
 - Scrollable navigation bar 
 
-Discord
+**Discord**
 - Ability to mute messages not directed towards you
 - Voice channels and text channels are separated
 - One can have a different display names in different servers
