@@ -29,3 +29,8 @@
 - Ability to mute messages not directed towards you
 - Voice channels and text channels are separated
 - One can have a different display names in different servers
+
+
+APP IDEA
+
+- I would like to create an online grocery shopping app, where the user can shop for their favorite items locally. The user would be able to search up an item and view local stores containing the item. Items can be added to a shopping cart or list (Items can be checked once acquired). I would also implement a system that allows user to plan their grocery store visits on a calendar and link their grocery lists to that specific day (or multiple days). A notifcation/alert system would also be implemented to remind the user regarding the grocery store visit.
